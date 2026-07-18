@@ -31,7 +31,7 @@ pip (Python package manager)
 
 Step 1: Clone the Repository
 bash
-git clone https://github.com/yourusername/netprobe.git
+git clone https://github.com/abdo5-jpg/netprobe.git
 cd netprobe
 Step 2: Install Required Dependencies
 bash
